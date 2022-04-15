@@ -56,7 +56,7 @@ public class HomeWorkL3 {
         }
         Arrays.stream(diagonalArr).map(Arrays::toString).forEach(System.out::println);
 
-//        System.out.println(Arrays.deepToString(diagonalArr)); не смог разобраться как сделать с новой строчки
+//        System.out.println(Arrays.deepToString(diagonalArr)); не смог разобраться как сделать с новой строчки/
         return diagonalArr;
     }
     private static int[] partFive(int len, int initialValue) {
