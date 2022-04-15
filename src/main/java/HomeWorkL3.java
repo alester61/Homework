@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Random;
 
 public class HomeWorkL3 {
     public static void main(String[] args) {
